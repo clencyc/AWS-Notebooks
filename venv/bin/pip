@@ -1,4 +1,4 @@
-#!/home/clencyc/Dev/AWS/venv/bin/python3.13
+#!/home/clencyc/Dev/AWS/venv/bin/python3
 # -*- coding: utf-8 -*-
 import re
 import sys
