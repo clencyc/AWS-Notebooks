@@ -1,1 +1,9 @@
 ./venv
+./plotenv
+./numpyenv
+./pandasenv
+./matplotlibenv
+./seabornenv
+./scipyenv
+./scikit-learnev
+./myenv
